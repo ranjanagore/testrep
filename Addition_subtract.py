@@ -4,7 +4,7 @@ Created on Fri Nov 27 20:51:55 2020
 
 @author: kale
 """
-
+#program for GUI in python
 from tkinter import *
 class MyWindow:
     def __init__(self, win):
